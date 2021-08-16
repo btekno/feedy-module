@@ -1,0 +1,13 @@
+{
+    "name": "Feedy",
+    "alias": "feedy",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Feedy\\Providers\\FeedyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
